@@ -1,9 +1,10 @@
 package com.holamundo.personasmovil;
 
+import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class Listar extends AppCompatActivity {
+public class Listar extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
